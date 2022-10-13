@@ -11,7 +11,7 @@ managed-aws-lambda-events = '3.11.0'
 managed-aws-serverless-core = '1.9'
 managed-aws-cdk-lib='2.45.0'
 servlet-api = "2.5"
-slf4j = "1.7.36"
+slf4j = "2.0.3"
 
 [libraries]
 
